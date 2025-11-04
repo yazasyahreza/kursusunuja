@@ -1,3 +1,5 @@
+This is my individual project that I developed during a Laravel bootcamp at university. This website was developed using Laravel and MySQL to store data in a database. This website is used to process course data such as participants, instructors, and courses. I developed this project over a period of two months in 2025. Thanks to this project, I was awarded the title of best Laravel bootcamp participant.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
