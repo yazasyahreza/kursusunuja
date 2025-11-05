@@ -1,6 +1,7 @@
-This is my individual project developed during a Laravel bootcamp at university. This website was developed using Laravel and MySQL to store data in a database. This website functions to process course data such as participants, instructors, and courses. 
+This is my individual project developed during a Laravel bootcamp at university. This website was developed using Laravel and MySQL to store data in a database. This website functions to process course data such as participants, instructors, and courses.
 
 Some of the features include:
+
 1. CRUD
 2. Real-time data search
 3. Data filtering
