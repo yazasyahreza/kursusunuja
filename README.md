@@ -1,15 +1,15 @@
-This is my individual project developed during a Laravel bootcamp at university. This website was developed using Laravel and MySQL to store data in a database. This website functions to process course data such as participants, instructors, and courses.
+This is an individual project that I developed during a Laravel bootcamp with my mentor at university. This website was developed using Laravel and MySQL to store data in a database. This website functions to process course data such as participants, instructors, and courses.
 
-Some of the features include:
+Some of the features included are:
 
-1. CRUD
-2. Real-time data search
-3. Data filtering
-4. Table pagination
-5. Login and logout
-6. Course cards
+CRUD
+Real-time data search
+Data filtering
+Table pagination
+Login and logout
+Course cards
 
-I developed this project over a period of two months in 2025. Thanks to this project, I was awarded the title of best Laravel bootcamp participant.
+I developed this project over two months in 2025. Thanks to this project, I was awarded the title of best participant in the Laravel bootcamp.
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
