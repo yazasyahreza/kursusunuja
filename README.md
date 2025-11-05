@@ -2,12 +2,12 @@ This is an individual project that I developed during a Laravel bootcamp with my
 
 Some of the features included are:
 
-CRUD
-Real-time data search
-Data filtering
-Table pagination
-Login and logout
-Course cards
+1. CRUD
+2. Real-time data search
+3. Data filtering
+4. Table pagination
+5. Login and logout
+6. Course cards
 
 I developed this project over two months in 2025. Thanks to this project, I was awarded the title of best participant in the Laravel bootcamp.
 
